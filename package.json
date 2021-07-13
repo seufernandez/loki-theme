@@ -1,0 +1,21 @@
+{
+    "name": "keychron-official-theme",
+    "displayName": "Keychron Official",
+    "description": "Keychron Official dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Keychron Official",
+                "uiTheme": "vs-dark",
+                "path": "./themes/keychron-theme-color-theme.json"
+            }
+        ]
+    }
+}
