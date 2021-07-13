@@ -1,5 +1,5 @@
 {
-  "name": "Keychron Theme",
+  "name": "Loki Theme",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -370,7 +370,7 @@
       "name": "js/ts support.variable.property.process",
       "scope": "support.variable.property.process",
       "settings": {
-        "foreground": "#f9ac7e"
+        "foreground": "#f97ec6"
       }
     },
     {
@@ -599,7 +599,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#4ce464"
+        "foreground": "#4adf60"
       }
     },
     {
@@ -613,7 +613,7 @@
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#ff5c5c"
+        "foreground": "#dd5b4d"
       }
     },
     {
@@ -722,7 +722,7 @@
       "name": "Support type",
       "scope": "support.constant.font-name",
       "settings": {
-        "foreground": "#f9ac7e"
+        "foreground": "#f97e7e"
       }
     },
     {
@@ -736,7 +736,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#ffc75d"
+        "foreground": "#f4f99d"
       }
     },
     {
@@ -1264,7 +1264,7 @@
       "name": "ts primitive/builtin types",
       "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
       "settings": {
-        "foreground": "#fdfdfd",
+        "foreground": "#b65d5d",
       }
     },
     {
@@ -1616,7 +1616,7 @@
         "support.type.object.hlsl"
       ],
       "settings": {
-        "foreground": "#ff5f1b"
+        "foreground": "#9e5d41"
       }
     },
     {
@@ -1636,7 +1636,7 @@
         "support.type.vb.asp"
       ],
       "settings": {
-        "foreground": "#fdfdfd"
+        "foreground": "#ff00b7"
       }
     },
     {
@@ -1789,10 +1789,13 @@
     },
     {
       "name": "Comments",
-      "scope": "comment, punctuation.definition.comment",
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#4f4f4f"
+        // "fontStyle": "",
+        "foreground": "#808080"
       }
     },
     {
@@ -1828,7 +1831,7 @@
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
-        "fontStyle": "italic"
+        // "fontStyle": "italic"
       }
     },
     {
@@ -1845,6 +1848,60 @@
         "fontStyle": "italic"
       }
     },
+    ///////////////////////////////////-
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    // -
+    {
+      "name": "Separators (key/value, namespace, inheritance, pointer, hash, slice, etc)",
+      "scope": [
+        "constant.other.symbol.hashkey punctuation.definition.constant.ruby",
+        "entity.other.attribute-name.placeholder punctuation",
+        "entity.other.attribute-name.pseudo-class punctuation",
+        "entity.other.attribute-name.pseudo-element punctuation",
+        "meta.group.double.toml",
+        "meta.group.toml",
+        "meta.object-binding-pattern-variable punctuation.destructuring",
+        "punctuation.colon.graphql",
+        "punctuation.definition.block.scalar.folded.yaml",
+        "punctuation.definition.block.scalar.literal.yaml",
+        "punctuation.definition.block.sequence.item.yaml",
+        "punctuation.definition.entity.other.inherited-class",
+        "punctuation.function.swift",
+        "punctuation.separator.dictionary.key-value",
+        "punctuation.separator.hash",
+        "punctuation.separator.inheritance",
+        "punctuation.separator.key-value",
+        "punctuation.separator.key-value.mapping.yaml",
+        "punctuation.separator.namespace",
+        "punctuation.separator.pointer-access",
+        "punctuation.separator.slice",
+        "string.unquoted.heredoc punctuation.definition.string",
+        "support.other.chomping-indicator.yaml",
+        "punctuation.separator.annotation"
+      ],
+      "settings": {
+        "foreground": "#FF79C6"
+      }
+    },
     {
       "name": "Accent1",
       "scope": [],
@@ -1852,6 +1909,258 @@
         "foreground": "#a277ff"
       }
     },
+    {
+      "name": "react class accent",
+      "scope": [
+        "entity.name.type.class.tsx",
+        "entity.name.type.class.ts",
+        "entity.name.type.class.jsx",
+        "entity.name.type.class.js",
+        "entity.name.type.class.tsx",
+        "entity.name.type.class.ts",
+        "entity.name.type.class.jsx",
+        "entity.name.type.class.js",
+      ],
+      "settings": {
+        "foreground": "#ffc14e"
+      }
+    },
+    {
+      "name": "react-props-accent",
+      "scope": [
+        "variable.other.object.ts",
+        "variable.other.object.js",
+        "variable.other.object.tsx",
+        "variable.other.object.jsx",
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#e1b97f"
+      }
+    },
+    {
+      "name": "react-props-parameter-accent",
+      "scope": [
+        "variable.parameter.tsx",
+        "variable.parameter.jsx",
+        "variable.parameter.ts",
+        "variable.parameter.js",
+      ],
+      "settings": {
+        "foreground": "#e1b97f"
+      }
+    },
+    {
+      "name": "react-props-parameter-accent",
+      "scope": "entity.name.type.tsx",
+      "settings": {
+        "foreground": "#bd964d"
+      }
+    },
+    {
+      "name": "react-props-parameter-accent",
+      "scope": [
+        "keyword.expressions-and-types.swift",
+        "keyword.other.this",
+        "variable.language",
+        "variable.language punctuation.definition.variable.php",
+        "variable.other.readwrite.instance.ruby",
+        "variable.parameter.function.language.special"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#bd964d"
+      }
+    },
+    {
+      "name": "react-props-parameter-accent",
+      "scope": [
+        "meta.method.declaration.tsx",
+        "meta.method.declaration.ts",
+        "meta.method.declaration.jsx",
+        "meta.method.declaration.js",
+      ],
+      "settings": {
+        // "fontStyle": "italic",
+        "foreground": "#ff0000"
+      }
+    },
+    {
+      "name": "react-props-parameter-accent",
+      "scope": [
+        "keyword.operator.assignment"
+      ],
+      "settings": {
+        // "fontStyle": "italic",
+        "foreground": "#ff6b2b"
+      }
+    },
+    //json sets
+    {
+      "name": "keyvalue",
+      "scope": [
+        "source.json",
+        "punctuation.separator.key-value"
+      ],
+      "settings": {
+        // "fontStyle": "italic",
+        "foreground": "#ff6b2b"
+      }
+    },
+    {
+      "name": "react-props-parameter-accent",
+      "scope": [
+        "punctuation.definition.string.begin",
+        "punctuation.definition.string.end",
+      ],
+      "settings": {
+        // "fontStyle": "italic",
+        "foreground": "#f4f99d"
+      }
+    },
+    {
+      "name": "Methods",
+      "scope": [
+        "keyword.other.special-method",
+        "meta.definition.method.js",
+      ],
+      "settings": {
+        "foreground": "#4ce464"
+      }
+    },
+    //puntuaction
+    {
+      "name": "dot, ",
+      "scope": [
+        "punctuation.accessor.js",
+        "punctuation.definition.block.js",
+        "meta.method.declaration.js",
+        "punctuation.accessor.jsx",
+        "punctuation.definition.block.jsx",
+        "meta.method.declaration.jsx",
+        "punctuation.accessor.tsx",
+        "punctuation.definition.block.tsx",
+        "meta.method.declaration.tsx",
+        "punctuation.accessor.ts",
+        "punctuation.definition.block.ts",
+        "meta.method.declaration.ts",
+      ],
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "Types",
+      "scope": [
+        "entity.name.type",
+        "keyword.primitive-datatypes.swift",
+        "keyword.type.cs",
+        "meta.protocol-list.objc",
+        "meta.return-type.objc",
+        "source.go storage.type",
+        "source.groovy storage.type",
+        "source.java storage.type",
+        "source.powershell entity.other.attribute-name",
+        "storage.class.std.rust",
+        "storage.type.attribute.swift",
+        "storage.type.c",
+        "storage.type.core.rust",
+        "storage.type.cs",
+        "storage.type.groovy",
+        "storage.type.objc",
+        "storage.type.php",
+        "storage.type.haskell",
+        "storage.type.ocaml"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#ffb222"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": [
+        "keyword",
+        "punctuation.definition.keyword"
+      ],
+      "settings": {
+        "foreground": "#AE3105"
+      }
+    },
+    {
+      "name": "Keyword \"new\"",
+      "scope": [
+        "keyword.control.new",
+        "keyword.operator.new"
+      ],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    //this
+    {
+      "name": "this, super, self, etc.",
+      "scope": [
+        "keyword.expressions-and-types.swift",
+        "keyword.other.this",
+        "variable.language",
+        "variable.language punctuation.definition.variable.php",
+        "variable.other.readwrite.instance.ruby",
+        "variable.parameter.function.language.special"
+      ],
+      "settings": {
+        "foreground": "#bd964d",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Function names",
+      "scope": [
+        "entity.name.function",
+        "meta.function-call.generic",
+        "meta.function-call.object",
+        "meta.function-call.php",
+        "meta.function-call.static",
+        "meta.method-call.java meta.method",
+        "meta.method.groovy",
+        "support.function.any-method.lua",
+        "keyword.operator.function.infix"
+      ],
+      "settings": {
+        "foreground": "#49df6e"
+      }
+    },
+    {
+      "name": "User-defined class names",
+      "scope": [
+        "entity.name.type.class",
+        "entity.name.class"
+      ],
+      "settings": {
+        "foreground": "#8BE9FD",
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "name": "Inherited classes",
+      "scope": [
+        "entity.other.inherited-class"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#8BE9FD"
+      }
+    },
+    // {
+    //   "name": "radhy nelson",
+    //   "scope": [
+    //     ""
+    //   ],
+    //   "settings": {
+    //     "fontStyle": "italic",
+    //     "foreground": "#ff7878"
+    //   }
+    // },
   ],
   "colors": {
     "foreground": "#cccccc",

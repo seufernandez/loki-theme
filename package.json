@@ -1,20 +1,35 @@
 {
-    "name": "keychron-official-theme",
-    "displayName": "Keychron Official",
-    "description": "Keychron Official dark theme",
-    "version": "0.0.1",
+    "name": "loki-official-theme",
+    "displayName": "Loki Official",
+    "description": "Loki Official dark theme based on Loki aesthetic and keychron keyboard🧡🪐 ",
+    "version": "0.0.2",
+    "publisher": "SeuFernandez",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/seufernandez/loki-theme"
+    },
     "engines": {
         "vscode": "^1.58.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "loki",
+        "lokitheme",
+        "lokit",
+        "loki theme",
+        "loki oficial",
+        "loki official"
+    ],
     "contributes": {
         "themes": [
             {
-                "label": "Keychron Official",
+                "label": "Loki Official",
                 "uiTheme": "vs-dark",
-                "path": "./themes/keychron-theme-color-theme.json"
+                "path": "./themes/loki-theme-color-theme.json"
             }
         ]
     }
