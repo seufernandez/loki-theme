@@ -2,7 +2,7 @@
     "name": "loki-official-theme",
     "displayName": "Loki Official",
     "description": "Loki Official dark theme based on Loki aesthetic and keychron keyboard🧡🪐 ",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "publisher": "SeuFernandez",
     "repository": {
         "type": "git",
@@ -10,6 +10,9 @@
     },
     "keywords": [
         "theme",
+        "lok",
+        "lo",
+        "lll",
         "dark theme",
         "loki",
         "lokitheme",
