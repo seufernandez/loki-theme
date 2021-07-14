@@ -1,13 +1,14 @@
 {
     "name": "loki-official-theme",
     "displayName": "Loki Official",
-    "description": "Loki Official dark theme based on Loki aesthetic and keychron keyboard🧡🪐 ",
-    "version": "0.0.7",
+    "description": "Loki Official dark theme based on Loki tv show aesthetic and keychron keyboard🧡🪐 ",
+    "version": "0.0.8",
     "publisher": "SeuFernandez",
     "repository": {
         "type": "git",
         "url": "https://github.com/seufernandez/loki-theme"
     },
+    "icon": "images/icon/loki-theme-icon.png",
     "keywords": [
         "theme",
         "lok",
@@ -22,7 +23,7 @@
         "loki official"
     ],
     "engines": {
-        "vscode": "^1.58.0"
+        "vscode": "^1.57.0"
     },
     "categories": [
         "Themes"
