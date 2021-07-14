@@ -613,7 +613,7 @@
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#dd5b4d"
+        "foreground": "#888364"
       }
     },
     {
@@ -1054,16 +1054,17 @@
       "name": "[VSCODE-CUSTOM] JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#F8F8F2"
+        "foreground": "#28712e"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
       "scope": "support.type.property-name.json punctuation",
       "settings": {
-        "foreground": "#F8F8F2"
+        "foreground": "#28712e"
       }
     },
+    //////
     {
       "name": "laravel blade tag",
       "scope": "text.html.laravel-blade source.php.embedded.line.html entity.name.tag.laravel-blade",
@@ -1966,7 +1967,7 @@
       "name": "react-props-parameter-accent",
       "scope": "entity.name.type.tsx",
       "settings": {
-        "foreground": "#bd964d"
+        "foreground": "#ffa600"
       }
     },
     {
