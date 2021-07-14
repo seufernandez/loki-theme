@@ -2262,7 +2262,7 @@
     "editorBracketMatch.background": "#0064001a",
     "editorBracketMatch.border": "#888888",
     "editor.foldBackground": "#19191b",
-    "editorOverviewRuler.background": "#a3767600",
+    // "editorOverviewRuler.background": "#a3767600",
     "editorOverviewRuler.border": "#7f7f7f4d",
     "editorError.foreground": "#f93333",
     "editorError.background": "#B73A3400",
@@ -2411,6 +2411,13 @@
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#333333",
+    //////
+    "scrollbar.shadow": "#111111",
+    "scrollbarSlider.activeBackground": "#414141",
+    "scrollbarSlider.background": "#161616",
+    "scrollbar.background": "#161616",
+    "scrollbarSlider.hoverBackground": "#272727",
+    //////
     "debugExceptionWidget.border": "#f0500c5c"
   },
 }
