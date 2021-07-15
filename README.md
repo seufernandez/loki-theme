@@ -35,6 +35,7 @@ There's a bunch of ways you can contribute to this project, like by:
 - Green Day
 - Spice Girls
 - Reginaldo Rossi
+- Tim Maia
 - XXXTENTACION
 
 # License
