@@ -1,6 +1,6 @@
 <p align="center">
-    <img alt="Loki Theme" src="images/typo-main-screen.png"  width=36%/>
-    <img alt="Loki Theme Palette" src="images/palette-theme.png"  width=70%/>
+    <img alt="Loki Theme" src="images/typo-main-screen.png"  width=50%%/>
+    <img alt="Loki Theme Palette" src="images/palette-theme.png" />
 </p>
 
 
