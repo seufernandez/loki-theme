@@ -39,5 +39,5 @@ There's a bunch of ways you can contribute to this project, like by:
 - XXXTENTACION
 
 # License
-[MIT © License](https://github.com/seufernandez)
+[MIT © License](https://github.com/seufernandez/loki-theme/blob/master/LICENSE.txt)
 
