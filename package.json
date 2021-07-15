@@ -1,4 +1,5 @@
 {
+    "$schema": "vscode://schemas/color-theme",
     "name": "loki-official-theme",
     "displayName": "Loki Official",
     "description": "Loki Official dark theme based on Loki tv show aesthetic and keychron keyboard🧡🪐 ",
