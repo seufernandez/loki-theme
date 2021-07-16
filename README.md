@@ -8,8 +8,9 @@
 ## Loki Official Dark Theme, a pretty dark theme based on Loki retro futuristic aesthetic
 
 
-*Every color present on theme was taken from the TV show
 
+
+*Every color present on theme was taken from the TV show
 
 # Especial Thanks
 
@@ -24,8 +25,8 @@ There's a bunch of ways you can contribute to this project, like by:
 -   Reporting a bug
 -  Improving this documentation
 -  Sharing this project and recommending it to your friends
--  Funding an issue on IssueHunt
 -  Dropping a star on this repository🧡
+[@Repository](https://github.com/seufernandez/loki-theme)
 
 **Enjoy!**
 
@@ -33,8 +34,8 @@ There's a bunch of ways you can contribute to this project, like by:
 - Amy Whinehouse
 - Arctic Monkeys
 - Green Day
-- Spice Girls
 - Reginaldo Rossi
+- Spice Girls
 - Tim Maia
 - XXXTENTACION
 
