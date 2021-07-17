@@ -9,7 +9,6 @@
 
 
 
-
 *Every color present on theme was taken from the TV show
 
 # Especial Thanks
@@ -20,12 +19,12 @@ Especial thanks to [@DevRadhy](https://www.github.com/devradhy) and [@Martin Har
 Contributions are always welcome.
 
 There's a bunch of ways you can contribute to this project, like by:
--   Making a port of this theme for another apps **(ask first, please)**
--   Requesting a port
--   Reporting a bug
--  Improving this documentation
--  Sharing this project and recommending it to your friends
--  Dropping a star on this repository🧡
+-  Making a port of this theme for another apps **(ask first, please)**
+-  Requesting a port
+-  Reporting a bug
+-  Improving this documentation
+-  Sharing this project and recommending it to your friends
+-  Dropping a star on this repository🧡
 [@Repository](https://github.com/seufernandez/loki-theme)
 
 **Enjoy!**
