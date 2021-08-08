@@ -652,7 +652,8 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#4991B9"
+        // "foreground": "#4991B9"
+        "foreground": "#b94949"
       }
     },
     {
@@ -1098,7 +1099,7 @@
     "pickerGroup.border": "#3f3f46",
     "pickerGroup.foreground": "#f0500c",
     "debugToolBar.background": "#333333",
-    "debugToolBar.border": "#f0500c5c",
+    "debugToolBar.border": "#00000000",
     "notifications.foreground": "#cccccc",
     "notifications.background": "#252526",
     "notificationToast.border": "#f0500c00",
