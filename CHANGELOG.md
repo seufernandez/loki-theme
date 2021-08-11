@@ -1,6 +1,10 @@
 # Loki Theme Changelog
 
-## 0.1.5 - Aug 08, 2021
+## 0.1.51 - Aug 11, 2021
+- New Theme Version Added ✨ **"Loki Theme - Kang Edition"**
+- Line Highlight BC on Classic Version is now transparent to better contrast
+
+## 0.1.50 - Aug 08, 2021
 - Type's color changed, from 'TS blue' to 'Dark Salmon'
 
 ## 0.1.42 - Jul 15, 2021

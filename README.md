@@ -32,6 +32,7 @@ There's a bunch of ways you can contribute to this project, like by:
 ## This theme was made while listening to:
 - Amy Whinehouse
 - Arctic Monkeys
+- Future Garage
 - Green Day
 - Reginaldo Rossi
 - Spice Girls
