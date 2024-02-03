@@ -7,13 +7,16 @@
 # Loki Official
 ## Loki Official Dark Theme, a pretty dark theme based on Loki retro futuristic aesthetic
 
+*All the colors present in the theme were extracted from Loki's TV show, using screenshots of beautiful scenes and capturing the colors using Figma's color picker :) 
+<br/>
 
+Check which color was extracted from each scene in this [Figma file!](https://www.figma.com/file/1sW02i6q47Iw7wiBmXa70G/Loki-Theme---color-inspirations-%F0%9F%8E%A8?type=design&node-id=0%3A1&mode=design&t=Kc3yjVXSfWNw59fr-1)
+<br/>
 
-*Every color present on theme was taken from the TV show
 
 # Especial Thanks
 
-Especial thanks to [@DevRadhy](https://www.github.com/devradhy) and [@Martin Hartfelder](https://github.com/TheMartinfer22) for being such helpful friends, and to [HUB Community](https://www.ahub.tech/discord) for teaching me valuable things everyday🧡🪐
+Especial thanks to [@DevRadhy](https://www.github.com/devradhy) and [@Martin Hartfelder](https://github.com/TheMartinfer22) for being such helpful friends, and to HUB Community for teaching me valuable things everyday🧡🪐
 
 # Contributing
 Contributions are always welcome.
