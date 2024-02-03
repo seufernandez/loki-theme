@@ -1,5 +1,8 @@
 # Loki Theme Changelog
 
+## 0.1.53 - Feb 3, 2024
+- "Loki Theme - color inspirations 🎨" Figma's link added to README
+
 ## 0.1.51 - Aug 11, 2021
 - New Theme Version Added ✨ **"Loki Theme - Kang Edition"**
 - Line Highlight BC on Classic Version is now transparent to better contrast
